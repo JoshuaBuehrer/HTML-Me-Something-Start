@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+body {
+  margin: 8px;
+  display: block;
+}
+
+#mainHeading {
+  font-family: fantasy;
+  color: rgb(158, 24, 82);
+}
+
+.funParagraph {
+  color: green;
+  font-family: fantasy;
+}
+
+#scary {
+  color: red;
+  background-color: black;
+  padding: 400px;
+}
+
+#footer {
+  padding: 50px;
+}
+
+#pear {
+    color:rgb(81, 162, 0);
+}
+
+#apple {
+    color: red;
+}
